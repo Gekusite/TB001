@@ -1,7 +1,7 @@
 [<< To Home Page](https://gekusite.github.io/Geku/)
 # Tibia 7.4 Map
 
-<img src="https://vignette.wikia.nocookie.net/tibia/images/5/50/Client_Artwork_7.0.jpg/revision/latest?cb=20130917194021&path-prefix=en" width="100" height="100"> <img src="https://image.prntscr.com/image/_oTTQIe5R2mOg58A_Cc4yg.jpg" width="100" height="100">  <img src="https://image.prntscr.com/image/wmTafhG0TwesMtC59Ckn_w.jpg.jpg" width="100" height="100"> <img 
+<img src="https://vignette.wikia.nocookie.net/tibia/images/5/50/Client_Artwork_7.0.jpg/revision/latest?cb=20130917194021&path-prefix=en" width="100" height="100"> <img src="https://image.prntscr.com/image/_oTTQIe5R2mOg58A_Cc4yg.jpg" width="100" height="100">  <img src="https://image.prntscr.com/image/wmTafhG0TwesMtC59Ckn_w.jpg.jpg" width="100" height="100">
 
 ## Description
 **Tibia 7.4 Map** is an original Tibia map from version 7.4.
